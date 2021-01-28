@@ -4,5 +4,5 @@
 # Demo
 <img src="converter gui demo.gif"/>
 
-# Please Subscire and Share
+# Please Subscribe and Share
 Link: https://www.youtube.com/channel/UCMJ5uaHN9srQcijCHQfW9MQ
